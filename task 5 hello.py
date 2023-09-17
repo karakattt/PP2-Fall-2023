@@ -1,0 +1,3 @@
+#task5 Hello, ...
+name=str(input())
+print('Hello, ' + name + '!')
